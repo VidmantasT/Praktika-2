@@ -1,0 +1,151 @@
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\Praktika 2.exe.config
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\Praktika 2.exe
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\Praktika 2.pdb
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika 2.csprojAssemblyReference.cache
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.Properties.Resources.resources
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika 2.csproj.GenerateResource.cache
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika 2.exe
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika 2.pdb
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\x86\sqlite3.dll
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\x64\sqlite3.dll
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Buffers.dll
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Memory.dll
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Buffers.xml
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Memory.xml
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika 2.csproj.CopyComplete
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.WelcomePage.resources
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.Registruotis.resources
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.Prisijungti.resources
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.Produktai.resources
+C:\Users\Vidmantas\source\repos\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.Krepšelis.resources
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\x86\sqlite3.dll
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\x64\sqlite3.dll
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\Praktika 2.exe.config
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\Praktika 2.exe
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\Praktika 2.pdb
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Buffers.dll
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Data.SQLite.dll
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Memory.dll
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Buffers.xml
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Data.SQLite.xml
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Memory.xml
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nerwo\Desktop\pr\Praktika 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika 2.csprojAssemblyReference.cache
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika_2.Krepšelis.resources
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika_2.Prisijungti.resources
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika_2.Produktai.resources
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika_2.WelcomePage.resources
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika_2.Registruotis.resources
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika_2.Properties.Resources.resources
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika 2.csproj.GenerateResource.cache
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika 2.csproj.CoreCompileInputs.cache
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika 2.csproj.CopyComplete
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika 2.exe
+C:\Users\nerwo\Desktop\pr\Praktika 2\obj\Debug\Praktika 2.pdb
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\x86\sqlite3.dll
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\x64\sqlite3.dll
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\Praktika 2.exe.config
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\Praktika 2.exe
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\Praktika 2.pdb
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Buffers.dll
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Memory.dll
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Buffers.xml
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Memory.xml
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika 2.csprojAssemblyReference.cache
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika_2.Krepšelis.resources
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika_2.Prisijungti.resources
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika_2.Produktai.resources
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika_2.WelcomePage.resources
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika_2.Registruotis.resources
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika_2.Properties.Resources.resources
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika 2.csproj.GenerateResource.cache
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika 2.csproj.CopyComplete
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika 2.exe
+C:\Users\Vidmantas\Desktop\probablyFixed\Praktika 2\obj\Debug\Praktika 2.pdb
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\x86\sqlite3.dll
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\x64\sqlite3.dll
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\Praktika 2.exe.config
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\Praktika 2.exe
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\Praktika 2.pdb
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Buffers.dll
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Memory.dll
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Buffers.xml
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Memory.xml
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika 2.csprojAssemblyReference.cache
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika_2.Krepšelis.resources
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika_2.Prisijungti.resources
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika_2.Produktai.resources
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika_2.WelcomePage.resources
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika_2.Registruotis.resources
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika_2.Properties.Resources.resources
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika 2.csproj.GenerateResource.cache
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika 2.csproj.CopyComplete
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika 2.exe
+C:\Users\Vidmantas\Desktop\New folder (2)\probablyFixed\Praktika 2\obj\Debug\Praktika 2.pdb
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\x86\sqlite3.dll
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\x64\sqlite3.dll
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\Praktika 2.exe.config
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\Praktika 2.exe
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\Praktika 2.pdb
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Buffers.dll
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Memory.dll
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Buffers.xml
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Memory.xml
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika 2.csprojAssemblyReference.cache
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.Krepšelis.resources
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.Prisijungti.resources
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.Produktai.resources
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.WelcomePage.resources
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.Registruotis.resources
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika_2.Properties.Resources.resources
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika 2.csproj.GenerateResource.cache
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika 2.csproj.CopyComplete
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika 2.exe
+C:\Users\Vidmantas\Desktop\Praktika 2 Mobili prekyba\Praktika 2\obj\Debug\Praktika 2.pdb
